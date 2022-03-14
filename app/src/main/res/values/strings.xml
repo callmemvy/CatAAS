@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatAAS</string>
+    <string name="created_at">Created at: %1$s</string>
+    <string name="tags">Tags: %1$s</string>
+    <string name="couldnt_load_data">Не удалось получить данные</string>
+    <string name="notification_title">Максимально бесячая нотификация</string>
+    <string name="notification_text">Loaded %1$d cats, elapsed %2$f sec. Total loaded %3$d</string>
+    <string name="share">Share cat</string>
+</resources>
